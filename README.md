@@ -4,6 +4,8 @@
 
 This web application allows users to easily manipulate images by adjusting brightness, saturation, inversion, grayscale, and rotation. It provides a user-friendly interface that enables users to customize their images to their preferences.
 
+![App Screenshot](https://github.com/niladri-1/Image-Manipulation-WebApp/blob/main/Damo-Pic.png)
+
 ## Features
 
 - **Brightness Control**: Adjust the brightness of the image.
